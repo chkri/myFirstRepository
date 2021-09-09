@@ -1,1 +1,3 @@
 Hello World.. This is my first push from local to GIT
+
+This is a change made by Developer 1
